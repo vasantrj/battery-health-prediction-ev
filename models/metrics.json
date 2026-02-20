@@ -1,0 +1,13 @@
+{
+    "LinearRegression": 12.038844963170197,
+    "RandomForest": 10.549595599977337,
+    "GradientBoosting": 10.313930160679496,
+    "LightGBM": 10.18507366365485,
+    "XGBoost": 10.017571576920792,
+    "best_model": "XGBoost",
+    "best_rmse": 10.017571576920792,
+    "n_train_samples": 270000,
+    "n_test_samples": 30000,
+    "n_features": 3,
+    "train_time": "2025-11-03 21:01:07.008388"
+}
