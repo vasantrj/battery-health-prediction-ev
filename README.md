@@ -71,7 +71,9 @@ Final Year CSE Student | Data Science Intern
 
 🔗 LinkedIn: https://www.linkedin.com/in/vasantjoshi
 
-🔗 GitHub: https://github.com/vasantrj/battery-health-prediction-ev
+🔗 GitHub: https://github.com/vasantrj
+
+🔗 GitHub repo: https://github.com/vasantrj/battery-health-prediction-ev
 
 🔮 Future Work
 
