@@ -30,8 +30,7 @@ Note: Due to large size (7565 CSV files + parquet), the dataset is not uploaded 
 You can download it from Kaggle:
 👉 https://www.kaggle.com/datasets/patrickfleith/nasa-battery-dataset
 
-## 🗂 Project Structure
-```text
+🗂 Project Structure
 battery_health_project/
 ├── src/                  # ML pipeline and utilities
 ├── pages/                # Streamlit pages (analytics)
@@ -42,8 +41,6 @@ battery_health_project/
 ├── requirements.txt      # Full dependency lockfile
 ├── requirements-min.txt  # Minimal deps for quick setup
 └── .gitignore
-
-
 
 🚀 How to Run
 git clone https://github.com/vasantrj/battery-health-prediction-ev.git
@@ -72,7 +69,7 @@ Model performance metrics are available in the models/metrics.json file.
 Vasant Joshi
 Final Year CSE Student | Data Science Intern
 
-🔗 LinkedIn: https://www.linkedin.com/in/vasantjoshi  
+🔗 LinkedIn: https://www.linkedin.com/in/vasantjoshi
 
 🔗 GitHub: https://github.com/vasantrj
 
