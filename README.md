@@ -43,6 +43,8 @@ battery_health_project/
 ├── requirements-min.txt  # Minimal deps for quick setup
 └── .gitignore
 
+
+
 🚀 How to Run
 git clone https://github.com/vasantrj/battery-health-prediction-ev.git
 cd battery-health-prediction-ev
@@ -65,9 +67,10 @@ Model performance metrics are available in the models/metrics.json file.
 📸 Screenshots
 <p align="center"> <img src="Screenshots/Dashboard_1.png" width="45%" /> <img src="Screenshots/Dashboard_2.png" width="45%" /> </p>
 
-## 👨‍💻 Author
-**Vasant Joshi**  
-Final Year CSE Student | Data Science Intern  
+👨‍💻 Author
+
+Vasant Joshi
+Final Year CSE Student | Data Science Intern
 
 🔗 LinkedIn: https://www.linkedin.com/in/vasantjoshi  
 
