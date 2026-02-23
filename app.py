@@ -234,9 +234,9 @@ with tabs[0]:
         else:
             st.success("Battery operating in normal range.")
 
-# ---------------------------------------------------
+# -------------------------------------------------------
 # TAB 2 — Smart EV Model Selector (EV-aware, cell-safe)
-# ---------------------------------------------------
+# -------------------------------------------------------
 with tabs[1]:
     st.header("🚗 EV-Aware Battery Health Estimation")
 
