@@ -81,14 +81,6 @@ Improve feature engineering for battery degradation patterns
 
 Deploy the dashboard using Streamlit Cloud
 
-Add real-time data ingestion
+Add real-time data ingestion by using IOT integration
 
-Why these tweaks matter (quickly)
 
-Code blocks make Project Structure and How to Run readable on GitHub
-
-Small spacing fixes improve first impression
-
-Clear “Recommended Python” avoids setup issues for others
-
-Your screenshots now display nicely side-by-side 👀
