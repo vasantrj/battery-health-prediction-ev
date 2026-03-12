@@ -8,9 +8,7 @@ It includes data preprocessing, feature engineering, model training, evaluation,
 🎯 Objectives
 
 Predict battery health degradation over time
-
 Enable predictive maintenance for EV batteries
-
 Visualize historical battery performance
 
 🧠 Tech Stack
@@ -24,7 +22,6 @@ Pickle (for model saving)
 📊 Dataset
 
 Source: NASA Battery Dataset
-
 Note: Due to large size (7565 CSV files + parquet), the dataset is not uploaded to GitHub.
 
 You can download it from Kaggle:
@@ -82,5 +79,3 @@ Improve feature engineering for battery degradation patterns
 Deploy the dashboard using Streamlit Cloud
 
 Add real-time data ingestion by using IOT integration
-
-
