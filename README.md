@@ -75,7 +75,5 @@ Final Year CSE Student | Data Science Intern
 🔮 Future Work
 
 Improve feature engineering for battery degradation patterns
-
 Deploy the dashboard using Streamlit Cloud
-
 Add real-time data ingestion by using IOT integration
