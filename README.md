@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://gist.githubusercontent.com/vasantrj/YOUR_HASH/raw/banner.svghttps://gist.githubusercontent.com/vasantrj/8b99ae4c904f870a92c25c9008a2fbb3/raw/496cdd58588310cc12f9a919f8dcbacf0f32265c/banner.svg" width="100%"/>
+<img src="https://gist.githubusercontent.com/vasantrj/8b99ae4c904f870a92c25c9008a2fbb3/raw/banner.svg" width="100%"/>
 
 <br/>
 
